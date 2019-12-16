@@ -1,0 +1,93 @@
+html,
+body,
+ul {
+    margin: 0;
+    padding: 0;
+}
+pre, code { font-family: Hack, monospace; }
+
+html {
+    background-image: url(../images/Glitch.jpg);
+    font-family: Hack;
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+body {
+    position: relative;
+    width: 100%;
+    align: center;
+
+}
+
+h1 {
+    color: #a23b42;
+    display: block;
+    margin: 3 auto;
+    text-align: center;
+    font-size: 30px;
+}
+
+h2 {
+    color: #98474c;
+    font-size: 20px;
+}
+
+h3 {
+    color: #b15359;
+    font-size: 17px;
+}
+
+ul {
+    color: #c5c8c6;
+    background: #263238;
+    text-align: left;
+    font-size: 15px;
+    width: 90%;
+    display: inline-block;
+}
+
+.command {
+    text-align: left;
+}
+
+.cat {
+    text-align: left;
+    color:#616161 ;
+}
+
+.exec {
+    text-align: center;
+    color: #111111;
+}
+
+pre {
+    color: #a58688;
+    width: 90%;
+    align: center;
+    display: block;
+    margin: auto;
+}
+
+.skull {
+    font-size: 8px;
+    text-align: left;
+}
+
+div {
+    background:#263238;
+    text-align: center;
+    position: center;
+    margin: auto;
+    width: 50%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border: 2px solid #98474c;
+}
+
+a { 
+    color: #8D6E63;
+    text-decoration: none;
+    font-size: 15px;
+    text-align: left;
+}
